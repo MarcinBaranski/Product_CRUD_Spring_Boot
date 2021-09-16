@@ -1,4 +1,4 @@
-package com.baranski.products.crud;
+package com.baranski.products.crud.repository;
 
 import com.baranski.products.crud.domain.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
